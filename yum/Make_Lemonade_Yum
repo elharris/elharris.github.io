@@ -4,26 +4,32 @@
 	</head>
 	<body>
 		<h1>Make Lemonade</h1>
-
-		<p>IMG SRC="lemonade.jpg"ALT="some text" WIDTH= HIEGHT= 
 			</p>
-			
-			<p><b>1 <sup>3/4</sup></b> C White Sugar
-				</p>
-			<p><b>8 C</b> Water
-				</p>
-			<p><b>1 <sup>1/2</sup> C</b> Lemon Juice
-				</p>
 
-			<p><b>1 </b>In a small saucepan, combine sugar and 1 cup water.
-				</p>
-			<p><b>2 </b>Bring to boil and stir to dissolve sugar.
-				</p>
-			<p><b>3 </b>Allow to cool to room temperature, then cover and refrigerate until chilled.
-				</p>
-			<p><b>4 </b>Remove seeds from lemon juice, but leave pulp.
-				</p>
-			<p><b>5 </b>In a pitcher, stir together chilled syrup, lemon juice and remaining 7 cups water. 
-				</p>
+			<p>
+				<ol>	
+					<li><b>1 <sup>3/4</sup></b> C White Sugar
+						</li>
+				
+					<li><p><b>8 C</b> Water
+						</li>
+					<li><b>1 <sup>1/2</sup> C</b> Lemon Juice
+						</li>
+				</ol>	
+			</p>		
+
+			<p>
+				<ol>
+					<li><b>1 </b>In a small saucepan, combine sugar and 1 cup water.
+						</li>
+					<li><b>2 </b>Bring to boil and stir to dissolve sugar.
+						</li>
+					<li><b>3 </b>Allow to cool to room temperature, then cover and refrigerate until chilled.
+						</li>
+					<li><b>4 </b>Remove seeds from lemon juice, but leave pulp.
+						</li>
+					<li><b>5 </b>In a pitcher, stir together chilled syrup, lemon juice and remaining 7 cups water. 
+						</li>
+				</ol>
 	</body>
 </html>												
