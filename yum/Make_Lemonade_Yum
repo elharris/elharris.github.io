@@ -6,7 +6,7 @@
 		<h1>Make Lemonade</h1>
 			</p>
 
-			<img scr="images/lemonade.jpg" alt="lemonade"/>
+			<img scr="images/lemonade.jpg" alt="lemonade" width= height=/>
 
 			<p>
 				<ul>	
