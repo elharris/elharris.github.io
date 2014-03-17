@@ -71,10 +71,10 @@ border-radius:100px;
 ul {
 text-align:center;
 font-size:small;
-padding:10px;	
+padding:10px 10px 10px 40px;	
 }
 
-
+ol {text-align:left;}
 
 
 
