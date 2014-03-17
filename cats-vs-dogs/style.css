@@ -60,7 +60,7 @@ h1 {margin-top:18px;
 	float:none;
 }
 
-.maincontainer{width:800px;
+.maincontainer{width:820px;
 				margin:auto;}
 
 .content{width:400px;
@@ -76,7 +76,8 @@ h1 {margin-top:18px;
 		;}
 .content p{font-family:garamond;
 			font-size:10;
-			line-height:14em;}
+			line-height:1.4em;}
+
 
 }
 ol, ul {
