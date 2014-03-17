@@ -60,6 +60,9 @@ h1 {margin-top:18px;
 	float:none;
 }
 
+.maincontainer{width:800px;
+				margin:auto;}
+
 }
 ol, ul {
 	list-style: none;
