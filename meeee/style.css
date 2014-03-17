@@ -72,8 +72,10 @@ p { margin:5px 5px;
 	font-family:helvetica;
 	}
 
-p {float:center;
-
-}	
+a {color:teal;
+  font size:12;
+  font-family:helvetica;
+  text-align:center;
+}
 
 
