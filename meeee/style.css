@@ -65,7 +65,7 @@ h2 { font-size:45px; font-weight:normal;
 	 text-align:center; }
 
 p { margin:5px 5px;
-	padding:5px 5px 5px 5px;
+	padding:5px 0px 5px 0px;
 	padding-bottom:20px; 
 	color:black;
 	font-size:12px;
