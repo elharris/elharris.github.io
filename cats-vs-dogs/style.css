@@ -56,3 +56,11 @@ nav {display:block;
  	font-family:serif;
  	font-size:small;
  	}	
+
+ img{float:left;
+ 	height:100%;
+ 	width:100%;
+ 	padding-top:0px;
+ 	padding-left: 0px;
+ 	padding-right: 0px;
+ 	padding-bottom: 20px;
