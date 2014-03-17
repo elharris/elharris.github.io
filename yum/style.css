@@ -51,11 +51,10 @@ table {
 }
 
 
-/* END RESET */
+/* Add Styles Here */
 
-body{
-font-family:"Futura", "Univers";font-color:black;	
-}
+body#content{font-family:"Futura", "Univers";font-color:black;}
+
 
 h1{
 font-family: "Futura";
