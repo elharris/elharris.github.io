@@ -49,7 +49,7 @@ table {
 
 /* Add Styles Here */
 body {  font-size:14px; }
-section#content { margin:0 auto; width:960px; padding:20px 0px; }
+section#content { margin:0 auto; width:960px; padding:20px 0px;text-align:center;}
 
 h1 { font-size:60px;
 	font-family:helvetica;
@@ -63,4 +63,10 @@ h2 { font-size:45px; font-weight:normal;
 	font-family:Helvetica; 
 	 color:teal; 
 	 text-align:center; }
-p { padding-bottom:20px; }
+
+p { margin:10px 10px;
+	padding:10px 10px 10px 10px;
+	padding-bottom:20px; 
+	color:black;
+	}
+
