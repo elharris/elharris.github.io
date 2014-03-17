@@ -55,6 +55,7 @@ table {
 
 body#content{font-family:"Futura", "Univers";font-color:black;}
 
+style
 
 h1{
 font-family: "Futura";
@@ -65,7 +66,8 @@ text-transform:uppercase;
 padding:40px 40px 40px 40px;
 margin:100px;
 border-radius:100px;
-
+border-style:solid;
+border-color:grey;
 }
 
 ul {
