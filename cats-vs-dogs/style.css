@@ -33,11 +33,9 @@ footer, header, hgroup, menu, nav, section {
 
 body {
 	line-height: 1;
-	margin:0px 10px 0px 10px;
-	background-color:grey;}
+	margin:0px 10px 0px 10px;}
 
 h1 {margin-top:18px;
-	background-color:pink;
 	}	
 
 .nav{font-family:Helvetica;
@@ -54,7 +52,7 @@ h1 {margin-top:18px;
 
 .nav li{display:inline;
 		margin:17px;
-		background-color:green;}
+		}
 
 .clear{
 	clear:both;
