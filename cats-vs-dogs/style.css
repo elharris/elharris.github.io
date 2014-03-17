@@ -32,4 +32,12 @@ nav {display:block;
  	font-family:serif;
  	font-size:x-large;
  	font-weight:bold;
- 	color:black;}   
+ 	color:black;} 
+
+ article#dogs{clear:left;
+ 		float:left;
+ 		width:45%;
+ 		padding-top:15px;
+ 		padding-left:20px;
+ 		padding-bottom:10px;
+ 		}
