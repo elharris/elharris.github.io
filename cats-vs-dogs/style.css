@@ -42,3 +42,10 @@ nav {display:block;
  		padding-left:20px;
  		padding-bottom:10px;
  		}
+
+ h2 {font-weight:bolder;
+ 	font-size:x-large;
+ 	font-family:serif;
+ 	padding:0px;
+ 	padding-top:0px;
+ 	margin:0px;}
