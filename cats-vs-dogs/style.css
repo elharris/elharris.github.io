@@ -9,4 +9,8 @@ h1 {text-align:center;
 
 nav {display:block;
 	width:100%;
-	border-top-width:2px;}	
+	border-top-width:2px;
+	border-top-style:solid;
+	border-bottom-width:2px;
+	border-bottom-style:solid;
+	text-align:center;}	
