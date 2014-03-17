@@ -19,4 +19,6 @@ nav {display:block;
 	margin-right:auto;
 	margin-left:auto;
 	width:900px;
-    color:red;}	
+    }	
+
+ h3 {display:inline;}   
