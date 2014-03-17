@@ -51,13 +51,15 @@ table {
 body {  font-size:14px; }
 section#content { margin:0 auto; width:960px; padding:20px 0px;text-align:center;}
 
+
 h1 { font-size:60px;
 	font-family:helvetica;
 	color:teal;
  	font-weight:bold;
  	text-align:center; 
  	margin:10px 10px;
- 	padding: 15px 15px 15px 15px;;}
+ 	padding: 15px 15px 15px 15px;
+ 	display:block;}
 
 h2 { font-size:45px; font-weight:normal;
 	font-family:Helvetica; 
