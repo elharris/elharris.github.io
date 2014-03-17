@@ -50,6 +50,11 @@ h1 {margin-top:18px;
 	text-align:center;
 }
 
+.clear{
+	clear:both;
+	float:none;
+}
+
 }
 ol, ul {
 	list-style: none;
