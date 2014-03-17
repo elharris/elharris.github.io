@@ -49,8 +49,11 @@ h1 {margin-top:18px;
 	border-color:black;
 	text-align:center;
 	list-style:none;
-	
 }
+
+.nav li{display:inline;
+		margin:17px;
+		background-color:green;}
 
 .clear{
 	clear:both;
