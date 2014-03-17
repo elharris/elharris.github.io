@@ -74,7 +74,10 @@ font-size:small;
 padding:10px 10px 10px 600px;	
 }
 
-ol {text-align:left;}
+ol {text-align:left;
+	padding:10px 10px 10px 600px;
+	font-size:small;
+	}
 
 
 
