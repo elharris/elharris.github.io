@@ -21,4 +21,6 @@ nav {display:block;
 	width:900px;
     }	
 
- h3 {display:inline;}   
+ h3 {display:inline;
+ 	list-style:none;
+ 	float:left;}   
