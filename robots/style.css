@@ -50,8 +50,10 @@ table {
 	border-spacing: 0;
 }
 
-body{
-	line-height:1;
-	margin:0px 10px 0px 10px;
-}
+head{ display:none;}
+
+body { margin:0 auto;}
+
+#site-header {postion:relative;
+		height: 120px;}
 
