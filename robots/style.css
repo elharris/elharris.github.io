@@ -77,4 +77,7 @@ body { margin:0 auto;}
 				text-decoration:none;
 				}
 #site-header a:visited {color:#4f3a11;
-		text-decoration:none;} /*visited link*/							
+		text-decoration:none;} /*visited link*/
+
+#site-header a:hover{color:#4f3a11;
+text-decoration:none;}									
