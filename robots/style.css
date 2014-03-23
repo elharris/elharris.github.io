@@ -80,4 +80,8 @@ body { margin:0 auto;}
 		text-decoration:none;} /*visited link*/
 
 #site-header a:hover{color:#4f3a11;
-text-decoration:none;}									
+text-decoration:none;}	
+
+#top-nav{
+	position:absolute;
+}								
