@@ -76,4 +76,5 @@ body { margin:0 auto;}
 #site-header a:link{color:#4f3a11;
 				text-decoration:none;
 				}
-						
+#site-header a:visited {color:#4f3a11;
+		text-decoration:none;} /*visited link*/							
