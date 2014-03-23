@@ -72,3 +72,5 @@ body { margin:0 auto;}
 				left:0px;
 				background:url('images/logo.png') no-repeat top left;
 				text-indent: -9999px;}
+
+#site-header a:link{color:4f3a11;}				
