@@ -63,5 +63,10 @@ body { margin:0 auto;}
 			display:block;
 			width:350px;
 			height:120px
-			left:165px;}		
+			left:165px;}	
 
+#site-header h1 a {position:absolute;
+				display:block;
+				width:350px;
+				height:120px;
+				left:0px;}
