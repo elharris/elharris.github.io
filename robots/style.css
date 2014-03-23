@@ -55,5 +55,6 @@ head{ display:none;}
 body { margin:0 auto;}
 
 #site-header {postion:relative;
-		height: 120px;}
+		height: 120px;
+		background-color: #d4e0a3;}
 
