@@ -59,3 +59,6 @@ body { margin:0 auto;}
 		background-color: #d4e0a3;
 		width:100%;}
 
+#site-header h1{position:absolute;
+}		
+
