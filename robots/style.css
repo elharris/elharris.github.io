@@ -138,7 +138,14 @@ text-decoration:none;}
 	padding:10px 10px 10px 150px;
 }	
 
-#page h1{ font-weight:bolder;}
+#page h1{ 
+	font-weight:bolder;
+	color:#4f3a11;
+	text-transform:uppercase;
+	font-size:xx-large;
+	padding-bottom:10px;
+	padding-top:50px;
+	}
 
 
 
