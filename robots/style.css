@@ -50,6 +50,8 @@ table {
 	border-spacing: 0;
 }
 
+style{font-family:Helvetica;} 
+
 head{ display:none;}
 
 body { margin:0 auto;}
