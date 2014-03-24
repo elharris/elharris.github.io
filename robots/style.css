@@ -161,5 +161,10 @@ text-decoration:none;}
 	padding-bottom:10px;
 }	
 
-#sidebar {float:right;}
+#sidebar {
+	float:right;
+	width:20%;
+	margin-top:50px;
+	padding:10px 220px 10px 10px;
+}
 
