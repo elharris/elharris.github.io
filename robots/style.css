@@ -194,4 +194,8 @@ text-decoration:none;}
 
 #site-footer{
 	clear:both;
+	position:relative;
+	height:220px;
+	width:100%;
+	background-color:#4f3a11;
 }		
