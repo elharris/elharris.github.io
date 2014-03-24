@@ -54,7 +54,7 @@ head{ display:none;}
 
 body { margin:0 auto;}
 
-#site-header {position:absolute;
+#site-header {position:relative;
 		height: 120px;
 		background-color: #d4e0a3;
 		width:100%;}
