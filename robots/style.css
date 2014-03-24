@@ -111,6 +111,6 @@ text-decoration:none;}
 
 #main-menu li{
 	float:left;
-	
+	display:block;
 }
 
