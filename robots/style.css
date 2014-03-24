@@ -212,3 +212,17 @@ text-decoration:none;}
 	font-size:medium;
 	padding-bottom:10px;
 }
+
+#footer-contact h1{
+	font-weight:bold;
+	color:#D2B48C;
+	text-transform:uppercase;
+	font-size:medium;
+	padding-bottom:10px;
+}
+
+#footer-contact p{
+	color:white;
+	font-size:x-small;
+	line-height:200%;
+}
