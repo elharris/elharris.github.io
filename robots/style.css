@@ -50,11 +50,12 @@ table {
 	border-spacing: 0;
 }
 
-style{font-family:Helvetica;} 
+
 
 head{ display:none;}
 
-body { margin:0 auto;}
+body { margin:0 auto;
+font-family:helvetica;}
 
 #site-header {position:relative;
 		height: 120px;
