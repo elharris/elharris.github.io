@@ -231,3 +231,10 @@ text-decoration:none;}
 	float:right;
 	margin:15px 220px;
 }
+
+#footer-follow h1{
+	font-weight:bold;
+	color:#D2B48C;
+	text-transform:uppercase;
+	font-size:medium;
+}
