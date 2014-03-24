@@ -154,5 +154,12 @@ text-decoration:none;}
 	font-size:medium;
 	padding-bottom:5px; }	
 
+#page p {
+	color:black;
+	font-size:x-small;
+	line-height:200%;
+	padding-bottom:10px;
+}	
+
 
 
