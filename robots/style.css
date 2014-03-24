@@ -54,7 +54,7 @@ head{ display:none;}
 
 body { margin:0 auto;}
 
-#site-header {postion:relative;
+#site-header {position:relative;
 		height: 120px;
 		background-color: #d4e0a3;
 		width:100%;}
@@ -65,7 +65,8 @@ body { margin:0 auto;}
 			height:120px
 			left:165px;}	
 
-#site-header h1 a {!position:absolute;
+#site-header h1 a {
+				position:absolute;
 				display:block;
 				width:350px;
 				height:120px;
