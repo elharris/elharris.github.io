@@ -181,5 +181,17 @@ text-decoration:none;}
 	color:#4f3a11;
 	font-size:x-small;
 	padding-bottom:10px;
-
 }
+
+#sidebar a:link{color:#4f3a11;
+	text-decoration:none;}
+
+#sidebar a:visited{color:#4f3a11;
+	text-decoration:none;}	
+
+#sidebar a:hover{color:#4f3a11;
+	text-decoration:none;}
+
+#site-footer{
+	clear:both;
+}		
