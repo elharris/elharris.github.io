@@ -205,3 +205,10 @@ text-decoration:none;}
 	width:120px;
 	margin:15px 155px;
 }
+#footer-contact h1{
+	font-weight:bold;
+	color:#D2B48C;
+	text-transform:uppercase;
+	font-size:medium;
+	padding-bottom:10px;
+}
