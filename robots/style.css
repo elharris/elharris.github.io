@@ -151,6 +151,7 @@ text-decoration:none;}
 	padding-bottom:10px;
 	padding-top:50px;
 	}
+	
 
 #page h2{ 
 	font-weight:bold;
@@ -182,7 +183,7 @@ text-decoration:none;}
 	padding-top:20px;
 }
 
-#sidebar{
+#sidebar a{
 	color:#4e3a11;
 	font-size:x-small;
 	padding-bottom:10px;
