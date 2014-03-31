@@ -35,8 +35,31 @@ body {
 	line-height: 1;
 	margin:0px 10px 0px 10px;}
 
-h1 {margin-top:18px;
+.line-up{display:inline-block;}
+
+.logotype {text-align:center;
+	}
+
+h1 {
+	margin-top:18px;
+	text-align:center;
+	font-family:'League Gothic';
+	font-size:100px;
+	font-style:uppercase;
+	margin:0;
+	
 	}	
+
+h5{ 
+	margin-top:18px;
+	text-align:center;
+	font-family:georgia;
+	font-size:60px;
+	font-style:italic;
+
+}
+
+
 
 .nav{font-family:Helvetica;
 	background-color:orange;
