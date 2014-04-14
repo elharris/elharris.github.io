@@ -61,9 +61,10 @@ table {
 	margin-right:1em;
 	font-size:.75em;
 	text-decoration:none;
+	float:left;
+	font-family:helvetica;
 }
 
-li{float:left;}
 
 
 
