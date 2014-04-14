@@ -52,12 +52,12 @@ table {
 /* Add Styles Here for Home Page */
 
 #nav {position:fixed;
-	background-color:white;
+	background-color:black;
 	padding:1%;
 	width:100%;
 }
 
-#nav img{width:25px;}
+#nav img{width:60px;}
 
 #nav li{ color:white;
 	margin-right:1em;
