@@ -53,8 +53,17 @@ table {
 
 #nav {position:fixed;
 	background-color:black;
-
+	width:100%;
+	padding:1%;
 }
+
+#nav li{ color:white;
+	margin-right:1em;
+	font-size:.75em;
+	text-decoration:none;
+}
+
+li{float:left;}
 
 
 
