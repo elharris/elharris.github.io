@@ -59,10 +59,11 @@ table {
 
 #nav img{width:60px;}
 
-#nav p{ color:white;
+#nav h2{ color:white;
 		margin:1em;
 		font-family:helvetica;
 		float:left;
+		padding-left:20px;
 	}
 
 
