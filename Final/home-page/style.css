@@ -59,12 +59,23 @@ table {
 
 #nav img{width:60px;}
 
+#nav p{ color:white;
+		margin:1em;
+		font-family:helvetica;
+		float:left;
+	}
+
+
 #nav li{ color:white;
 	margin-right:1em;
+	margin-left:50px;
 	font-size:.75em;
 	text-decoration:none;
 	float:left;
 	font-family:helvetica;
+}
+
+#nav a{ color:white;
 }
 
 
