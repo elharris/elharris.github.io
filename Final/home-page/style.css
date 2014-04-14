@@ -62,7 +62,7 @@ table {
 
 
 #logomenucontainer img{
-	width: 40px;
+	width: 50px;
 	float:left;
 	position:relative;
 
@@ -73,12 +73,19 @@ table {
 		font-family:helvetica;
 		float:left;
 		position:absolute;
-		padding-left:30px;
-		padding-top:10px;
+		padding-left:40px;
+		padding-top:20px;
 
 
 	}
+#nav ul{
+	float:right;
+	padding-left:1040px;
+	padding-top:40px;
+	font-size:20px;
+	position:absolute;
 
+}
 
 #nav li{ color:white;
 	margin-right:1em;
@@ -87,6 +94,7 @@ table {
 	text-decoration:none;
 	float:right;
 	font-family:helvetica;
+	text-decoration:none
 }
 
 #nav a{ color:white;
