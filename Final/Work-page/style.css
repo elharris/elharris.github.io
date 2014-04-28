@@ -107,7 +107,10 @@ table {
 
 #images a{/*projects images*/
 width:100%;
+padding-top:7%;
 float:left;
+
+
 }
 
 .group:after { /*clearing floats*/
