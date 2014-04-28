@@ -105,9 +105,9 @@ table {
 	text-decoration:none;
 }
 
-#feature img{width:50%; /*image stylee*/
-	padding-top:150px;
-	padding-left:350px;
+#feature img{width:100%; /*image stylee*/
+	padding-top:0px;
+	padding-left:0px;
 	z-index:2;
 }
 
