@@ -105,6 +105,13 @@ table {
 	text-decoration:none;
 }
 
+#projects li {/*projects*/
+
+position:fixed;
+width:50%;
+float:left;
+}
+
 .group:after { /*clearing floats*/
   content: "";
   display: table;
