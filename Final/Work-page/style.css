@@ -105,10 +105,8 @@ table {
 	text-decoration:none;
 }
 
-#group li {/*projects images*/
-
-position:fixed;
-width:50%;
+#images a{/*projects images*/
+width:100%;
 float:left;
 }
 
