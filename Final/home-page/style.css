@@ -51,24 +51,24 @@ table {
 
 /* Add Styles Here for Home Page */
 
-#nav {position:fixed;
+#nav {position:fixed; /*nav style*/
 	background-color:black;
 	padding:1%;
 	width:100%;
 	height:72px;
 }
 
-#logomenucontainer{float:left;}
+#logomenucontainer{float:left;} /*logo style*/
 
 
-#logomenucontainer img{
+#logomenucontainer img{ /*more logo style*/
 	width: 50px;
 	float:left;
 	position:relative;
 
 }
 
-#h2 h2{color:white;
+#h2 h2{color:white; /*nav text style*/
 		margin:1em;
 		font-family:helvetica;
 		float:left;
@@ -78,7 +78,7 @@ table {
 
 
 	}
-#nav ul{
+#nav ul{ /*nav text style*/
 	float:right;
 	padding-left:1040px;
 	padding-top:40px;
@@ -87,7 +87,7 @@ table {
 
 }
 
-#nav li{ color:white;
+#nav li{ color:white; /*nav text style*/
 	margin-right:1em;
 	margin-left:50px;
 	font-size:.75em;
@@ -97,11 +97,11 @@ table {
 	text-decoration:none
 }
 
-#nav a{ color:white;
+#nav a{ color:white; /*nav text style*/
 	text-decoration:none;
 }
 
-#feature img{width:50%;
+#feature img{width:50%; /*image stylee*/
 	padding-top:150px;
 	padding-left:350px;
 }
@@ -111,7 +111,7 @@ table {
 
 
 
-.group:after {
+.group:after { /*clearing floats*/
   content: "";
   display: table;
   clear: both;
