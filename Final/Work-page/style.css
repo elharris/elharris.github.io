@@ -106,9 +106,10 @@ table {
 }
 
 #images a{/*projects images*/
-width:100%;
+width:30%;
 padding-top:7%;
 float:left;
+margin:2%;
 
 
 }
