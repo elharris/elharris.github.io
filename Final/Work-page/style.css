@@ -105,12 +105,19 @@ table {
 	text-decoration:none;
 }
 
-#images img{/*projects images*/
-width:29%;
-padding-top:7%;
-padding-left:2.5%;
-float:left;
-margin:.5%;
+.entry { float:left;
+
+width:30%;
+
+	
+
+	background-color:green;
+	
+
+}
+
+
+
 
 
 }
