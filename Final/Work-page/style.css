@@ -104,23 +104,37 @@ table {
 #nav a{ color:white; /*nav text style*/
 	text-decoration:none;
 }
+#work-collection{clear:both;
+	width:80%;
+	margin:10%;
+	padding:10%,2%,0%,1%;
+	background-color: red;
 
-.entry { float:left;
+}
 
-width:30%;
+.img-entry {float:left;
+	width:30%;
+	margin:1%;
+}
 
-	
+img{width:80%;
+}
 
+.description {
+	float:left;
 	background-color:green;
-	
-
+	font-family:helvetica;
 }
 
 
 
 
 
-}
+
+
+
+
+
 
 .group:after { /*clearing floats*/
   content: "";
