@@ -105,9 +105,9 @@ table {
 	text-decoration:none;
 }
 #work-collection{clear:both;
-	width:80%;
-	margin:10%;
-	padding:10%,2%,0%,1%;
+	width:100%;
+	margin:0%;
+	padding-top:9%;
 	background-color: red;
 
 }
@@ -115,20 +115,24 @@ table {
 .img-entry {float:left;
 	width:30%;
 	margin:1%;
+
+	
 }
 
-img{width:80%;
+img{width:110%;
+
 }
 
 .description {
 	float:left;
 	background-color:green;
 	font-family:helvetica;
+
 }
 
 
 
-
+padding-left:1%;
 
 
 
