@@ -126,8 +126,8 @@ overflow: hidden;
 	
 }
 
-img{width:100%;
-
+img {
+width: 100%;
 }
 
 .description {
@@ -136,7 +136,6 @@ float: left;
 width: 100%;
 font-family: helvetica;
 padding-top: 1%;
-font-size: x-large;
 vertical-align: baseline;
 background-color: black;
 color: white;
