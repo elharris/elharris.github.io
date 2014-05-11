@@ -104,5 +104,13 @@ table {
 #nav a{ color:white; /*nav text style*/
 	text-decoration:none;
 }
+
+.project-summary{
+	color:black;
+	font-family:Helvetica;
+	line-height:120%%;
+	margin:15% 25% ;
+	text-align:center;
+}
 	
 
