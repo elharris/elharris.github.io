@@ -124,13 +124,14 @@ overflow: hidden;
 
 
 	
-}
 
-img {
+
+.image img{/**this is where the images for each project go**/
+
 width: 100%;
 }
 
-.description {
+.description {/**this is where the titles of each project go**/
 
 float: left;
 width: 100%;
