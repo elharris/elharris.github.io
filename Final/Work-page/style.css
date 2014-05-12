@@ -147,6 +147,10 @@ border: black;
 a{ color:white;
  text-decoration:none;}
 
+ #email{color:black;
+ 	
+ }
+
 
 
 
@@ -158,7 +162,7 @@ a{ color:white;
 
 .group:after { /*clearing floats*/
   content: "";
-  display: table;
+  display:table;
   clear: both;
 }
 

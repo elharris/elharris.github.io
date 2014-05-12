@@ -112,13 +112,34 @@ table {
 
 
 #about img { /*about image*/
-width:50%;
-padding-top:150px;
-padding-;eft:350px;
+width:25%;
+padding-top:10%;
+padding-left:5%;
 z-index:2;
+
+
 
 }
 
+#about p{color:black;
+	font-family:georgia;
+	line-height:120%;
+	margin-left:.5%;
+	margin-right:.5%;
+	margin-top:.5%;
+	margin-bottom:.5%;
+	text-align:left;
+	border:solid;
+
+	
+	padding-top:3%;
+	padding-bottom:3%;
+	padding-left:7%;
+	padding-right:7%;
+	
+	}
+
+#about {float:left;}
 
 
 
