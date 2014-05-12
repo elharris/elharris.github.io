@@ -109,21 +109,25 @@ table {
 #Title{ font-family:Helvetica;
 font-size:xx-large;
 text-align:center;
-margin-top:15%;}
+margin-top:10.6%;}
 
 .project-summary{/*description of project goes here*/
 	color:black;
-	font-family:Helvetica;
+	font-family:georgia;
 	line-height:120%%;
-	margin:15% 25% ;
+	margin-left:.5%;
+	margin-right:.5%;
+	margin-top:.5%;
+	margin-bottom:.5%;
 	text-align:left;
 	border:10%;
-	border:solid; 
-	padding-left:3%;
+	border:solid;
+
+	
 	padding-top:3%;
 	padding-bottom:3%;
 	padding-left:7%;
-	padding-right:7%;
+	padding-right:7%
 	
 }
 
@@ -131,7 +135,14 @@ margin-top:15%;}
 	width:27%;
 	padding-left:36.5%;
 	padding-top:2.5%;
+}
+
+.image2 img{
+	width:50%;
+	padding-left:25%;
 
 }
+
+
 	
 
