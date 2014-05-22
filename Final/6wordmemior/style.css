@@ -132,4 +132,28 @@ margin-top:10.6%;}
 	.image1 img {
 	width:100%;
 	
-	padding-top:2.5%;
+	padding-top:2.5%;}
+
+	.image2 img{
+	width:35%;
+	padding-left:31%;
+	padding-top:1%;
+	padding-bottom:2%;
+	}
+
+	.project-summary2{color:black;
+	font-family:georgia;
+	line-height:120%%;
+	margin-left:.5%;
+	margin-right:.5%;
+	margin-top:.5%;
+	margin-bottom:.5%;
+	text-align:left;
+	border:10%;
+	border:solid;
+
+	
+	padding-top:3%;
+	padding-bottom:3%;
+	padding-left:7%;
+	padding-right:7%}	
