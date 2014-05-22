@@ -109,3 +109,22 @@ table {
 font-size:xx-large;
 text-align:center;
 margin-top:10.6%;}
+
+.project-summary1{/*description of project goes here*/
+	color:black;
+	font-family:georgia;
+	line-height:120%%;
+	margin-left:.5%;
+	margin-right:.5%;
+	margin-top:.5%;
+	margin-bottom:.5%;
+	text-align:left;
+	border:10%;
+	border:solid;
+
+	
+	padding-top:3%;
+	padding-bottom:3%;
+	padding-left:7%;
+	padding-right:7%
+	
